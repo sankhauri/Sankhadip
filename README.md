@@ -11,7 +11,7 @@ Spatio-Temporal Autoregressive Models. My recent and ongoing projects include:
 4. Predicting the frequency of  traffic crashs by adopting a conditional autoregressive model (CAR) within the Bayesian framework, leading to more accurate forecasts for Pennsylvania counties.
 5. Predicting US stock prices using LSTM.
 
-# EDUCATION
+# Education
 
 * Ph.D. in Mathematics  
   Southern Illinois University, Carbondale, IL, USA\
@@ -30,7 +30,7 @@ Spatio-Temporal Autoregressive Models. My recent and ongoing projects include:
   St. Xavier's College, University of Calcutta, Kolkata, India\
   1st class, Marks: 69%
 
-# WORK HISTORY
+# Work History
 * University of Massachusetts, Boston, MA\
   Jan 2022 – Present\
   Lecturer of Mathematics and Statistics
@@ -56,7 +56,7 @@ Spatio-Temporal Autoregressive Models. My recent and ongoing projects include:
   Feb 2013- Dec 2013\
   Assistant Professor and Head of the Department
 
-# ADMINISTRATIVE  EXPERIENCES  
+# Administrative Experiences  
 * ABET accreditation, University of Engineering and Management, Kolkata, India\
   Jan 2021 – Mar 2022\
   Team Lead
