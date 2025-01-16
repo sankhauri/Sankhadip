@@ -18,17 +18,17 @@ Spatio-Temporal Autoregressive Models. My recent and ongoing projects include:
   Dissertation title: “Trace Forms over Finite Fields of Characteristic Two”.\
   Advisor: Prof. (Late) Robert Fitzgerald.
 
-2. Master of Science in Statistics
-University of Rhode Island, Kingston, RI 
-GPA: 3.95 out of 4.
+* Master of Science in Statistics
+  University of Rhode Island, Kingston, RI \
+  GPA: 3.95 out of 4.
+  
+* Master of Science in Mathematics
+  Southern Illinois University, Carbondale, IL\
+  GPA: 4.0 out of 4.
 
-3. Master of Science in Mathematics
-Southern Illinois University, Carbondale, IL
-GPA: 4.0 out of 4.
-
-4. Bachelor of Science in Mathematics
-St. Xavier's College, Kolkata, India
-1st class, Marks: 69%
+* Bachelor of Science in Mathematics
+  St. Xavier's College, University of Calcutta, Kolkata, India\
+  1st class, Marks: 69%
 
 # WORK HISTORY
 1. University of Massachusetts, Boston, MA                                                                                                                             Jan 2022 – Present
