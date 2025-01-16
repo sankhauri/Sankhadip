@@ -31,36 +31,46 @@ Spatio-Temporal Autoregressive Models. My recent and ongoing projects include:
   1st class, Marks: 69%
 
 # WORK HISTORY
-1. University of Massachusetts, Boston, MA                                                                                                                             Jan 2022 – Present
-Lecturer of Mathematics and Statistics
-•	Engaged in teaching Algebra, Calculus, and Introductory Statistics. Utilized WebWork and Canvas to assign homework, quizzes, and other co-curricular activities. Mentored students, fostering a supportive learning environment.
+* University of Massachusetts, Boston, MA
+  Jan 2022 – Present\
+  Lecturer of Mathematics and Statistics\
+  - Engaged in teaching Algebra, Calculus, and Introductory Statistics. Utilized WebWork and Canvas to assign homework, quizzes, and other co-curricular activities. Mentored students, fostering a supportive 
+  learning environment.
 
-2. University of Rhode Island, Kingston, RI                                                                                                                           Sep 2022 – May 2024
-3. Academic Assistant               
-•	Taught Statistical Methods with R and Regression Analysis. Conducted hands-on labs in data analysis. Guided students in fitting regression models and evaluating goodness of fit.
+* University of Rhode Island, Kingston, RI
+  Sep 2022 – May 2024\
+  Academic Assistant  \             
+  -	Taught Statistical Methods with R and Regression Analysis. Conducted hands-on labs in data analysis. Guided students in fitting regression models and evaluating goodness of fit.
+    
+* University of Engineering and Management, Kolkata, India
+  May 2017 - Jul 2022\
+  Associate Professor 
+   - Taught various mathematics and statistics courses, including Calculus, Probability Theory, and Differential Equations. Collaborated on curriculum revision and evaluation. Contributed to academic research and publications.
 
-4. ABET accreditation, University of Engineering and Management, Kolkata, India                                                             Jan 2021 – Mar 2022
-Team Lead
-•	Directed accreditation processes, ensuring compliance with ABET standards. Coordinated with faculty to gather necessary documentation and evidence. Enhanced program quality through meticulous evaluation and feedback.
+* Surendra Institute of Engineering and Management, Siliguri, India
+  Jan 2014 - Apr 2017\
+  Assistant Professor
+   - Taught Calculus, Graph Theory, and Linear Algebra. Used various learning modalities to facilitate the learning process. Evaluated and supervised student activities, providing reports on academic progress. Contributed to campus activities and recruitment processes.
 
-5. Online Course Curriculum, University of Engineering and Management, Kolkata, India                                                       Mar 2020 - Dec 2021
-Team Lead
-•	Led the development of online course materials, integrating interactive elements to enhance learning. Collaborated with subject matter experts to ensure content accuracy and relevance.
+* University of Engineering and Management, Jaipur, India
+  Feb 2013- Dec 2013\
+  Assistant Professor and Head of the Department
 
-6. Board of Studies, Department of Basic Science and Humanities                                                                             Jul 2017 - Jun 2022
-University of Engineering and Management, Kolkata, India                                                                      
-Secretary
-•	Managed board meetings, documented minutes, and facilitated communication among members. Contributed to curriculum development and academic policy formulation. Ensured smooth operation of departmental activities.
+# ADMINISTRATIVE  EXPERIENCES
+* ABET accreditation, University of Engineering and Management, Kolkata, India
+  Jan 2021 – Mar 2022\
+  Team Lead
+    - Directed accreditation processes, ensuring compliance with ABET standards. Coordinated with faculty to gather necessary documentation and evidence. Enhanced program quality through meticulous evaluation and feedback.
 
-7. University of Engineering and Management, Kolkata, India                                                                                 May 2017 - Jul 2022
-Assistant Professor 
-•	Taught various mathematics and statistics courses, including Calculus, Probability Theory, and Differential Equations. Collaborated on curriculum revision and evaluation. Contributed to academic research and publications.
+* Online Course Curriculum, University of Engineering and Management, Kolkata, India
+  Mar 2020 - Dec 2021\
+  Team Lead
+   - Led the development of online course materials, integrating interactive elements to enhance learning. Collaborated with subject matter experts to ensure content accuracy and relevance.
 
-8. Surendra Institute of Engineering and Management, Siliguri, India                                                                            Jan 2014 - Apr 2017
-Assistant Professor
-•	Taught Calculus, Graph Theory, and Linear Algebra. Used various learning modalities to facilitate the learning process. Evaluated and supervised student activities, providing reports on academic progress. Contributed to campus activities and recruitment processes.
+* Board of Studies, Department of Basic Science and Humanities,University of Engineering and Management, Kolkata, India
+  Jul 2017 - Jun 2022\                                                                   
+  Secretary
+    -	Managed board meetings, documented minutes, and facilitated communication among members. Contributed to curriculum development and academic policy formulation. Ensured smooth operation of departmental activities.
 
-9. University of Engineering and Management, Jaipur, India                                                                      Feb 2013- Dec 2013
-   Assistant Professor and Head of the Department, 
-
+  
    
