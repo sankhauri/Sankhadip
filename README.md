@@ -68,7 +68,7 @@ Spatio-Temporal Autoregressive Models. My recent and ongoing projects include:
    - Led the development of online course materials, integrating interactive elements to enhance learning. Collaborated with subject matter experts to ensure content accuracy and relevance.
 
 * Board of Studies, Department of Basic Science and Humanities,University of Engineering and Management, Kolkata, India\
-  Jul 2017 - Jun 2022\                                                                   
+  Jul 2017 - Jun 2022                                                                 
   Secretary
     -	Managed board meetings, documented minutes, and facilitated communication among members. Contributed to curriculum development and academic policy formulation. Ensured smooth operation of departmental activities.
 
