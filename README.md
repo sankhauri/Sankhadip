@@ -15,9 +15,9 @@ Spatio-Temporal Autoregressive Models. My recent and ongoing projects include:
 
 * Ph.D. in Mathematics  
   Southern Illinois University, Carbondale, IL, USA
-  
+  < br / >
   Dissertation title: “Trace Forms over Finite Fields of Characteristic Two”.
-  
+  < br / >
   Advisor: Prof. (Late) Robert Fitzgerald.
 
 2. Master of Science in Statistics
