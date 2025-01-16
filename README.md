@@ -56,7 +56,7 @@ Spatio-Temporal Autoregressive Models. My recent and ongoing projects include:
   Feb 2013- Dec 2013\
   Assistant Professor and Head of the Department
 
-# ADMINISTRATIVE  EXPERIENCES
+# ADMINISTRATIVE  EXPERIENCES  
 * ABET accreditation, University of Engineering and Management, Kolkata, India\
   Jan 2021 – Mar 2022\
   Team Lead
