@@ -156,7 +156,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - README
+#  - README
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -181,7 +181,7 @@ exclude:
   - node_modules
   - package.json*
   - Rakefile
- # - README
+  - README
   - tmp
   - vendor
 keep_files:
