@@ -215,7 +215,7 @@ kramdown:
 collections:
 _pages:
     output: true
-    permalink: /:path/
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
