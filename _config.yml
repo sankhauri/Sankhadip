@@ -12,7 +12,7 @@ title                    : "Sankhadip Roy, PhD"
 title_separator          : "-"
 name                     : &name "Sankhadip Roy"
 description              : &description "Data Scientist | Data Analyst| Mathematics and Statistics Faculty"
-url                      : https://sankhauri.github.io/Sankhadip/
+url                      : "https://sankhauri.github.io/Sankhadip/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sankhauri/Sankhadip"
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/sankhadip-roy-93758631/"
+  linkedin         : "sankhadip-roy-93758631/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
